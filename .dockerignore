@@ -1,0 +1,46 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# Other
+.vscode
+.idea
+k8s/*.yaml
+k8s/*.yml
+k8s/*.txt
+.env
+tmp
+
+# npm
+node_modules
+*.log
+*.gz
+
+docker_mount
+
+# Coveralls
+coverage
+
+*gserviceaccount.com.json
+
+
+# DOCKER
+
+docker_mount
+docs
+node_modules*
+tmp*
+
+# Skip seed files
+seeds
+db/seeders

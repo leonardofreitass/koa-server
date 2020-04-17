@@ -1,0 +1,9 @@
+{
+  "host": "0.0.0.0",
+  "port": 3030,
+  "log": {
+    "silent": false,
+    "level": "info",
+    "label": "koa-server"
+  }
+}
